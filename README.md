@@ -36,30 +36,28 @@ Explore Git & GitHub interview questions from real-world interviews:
   git status
   ```
 
-```
-
 ### 🌐 GitHub Essentials
 
-* Remote repositories
-* Forks and pull requests
-* Issues and collaboration
-* GitHub Actions & workflows
+- Remote repositories
+- Forks and pull requests
+- Issues and collaboration
+- GitHub Actions & workflows
 
 ### ⚙️ Intermediate Git
 
-* Branching & merging strategies
-* `git stash` for saving changes temporarily
-* `git reflog` to view commit history
-* Resolving merge conflicts
-* Detached HEAD state
+- Branching & merging strategies
+- `git stash` for saving changes temporarily
+- `git reflog` to view commit history
+- Resolving merge conflicts
+- Detached HEAD state
 
 ### 🧪 Advanced Scenarios
 
-* `reset` vs `revert`
-* `rebase` vs `merge`
-* `git cherry-pick`
-* Squashing commits & interactive rebase
-* Git hooks & commit message best practices
+- `reset` vs `revert`
+- `rebase` vs `merge`
+- `git cherry-pick`
+- Squashing commits & interactive rebase
+- Git hooks & commit message best practices
 
 ---
 
@@ -67,22 +65,22 @@ Explore Git & GitHub interview questions from real-world interviews:
 
 > These are frequently asked Git/GitHub interview topics:
 
-* Difference: Git vs GitHub
-* Clone vs Fetch vs Pull
-* Reset vs Revert vs Checkout
-* Rebase vs Merge
-* Merge Conflict Resolution
-* Using `git stash` & `git reflog`
-* Best commit practices
-* Common Git workflows (feature branch, Git Flow, etc.)
+- Difference: Git vs GitHub
+- Clone vs Fetch vs Pull
+- Reset vs Revert vs Checkout
+- Rebase vs Merge
+- Merge Conflict Resolution
+- Using `git stash` & `git reflog`
+- Best commit practices
+- Common Git workflows (feature branch, Git Flow, etc.)
 
 ---
 
 ## 🧠 Bonus Resources
 
-* [Git Interview Questions – InterviewBit](https://www.interviewbit.com/git-interview-questions/)
-* [Top 50 GitHub Interview Qs – DevOpsSchool](https://www.devopsschool.com/blog/top-50-interview-questions-and-answers-of-github/)
-* [Git Basics – GitHub Docs](https://docs.github.com/en/get-started)
+- [Git Interview Questions – InterviewBit](https://www.interviewbit.com/git-interview-questions/)
+- [Top 50 GitHub Interview Qs – DevOpsSchool](https://www.devopsschool.com/blog/top-50-interview-questions-and-answers-of-github/)
+- [Git Basics – GitHub Docs](https://docs.github.com/en/get-started)
 
 ---
 
@@ -98,5 +96,3 @@ Feel free to contribute by adding more real-world interview questions, practice 
 📧 Connect on [LinkedIn](https://www.linkedin.com/in/itsindrajput)
 
 ⭐ If you found this helpful, consider starring the repo and sharing it with your peers!
-
-```
